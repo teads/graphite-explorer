@@ -1,0 +1,14 @@
+* {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 12;
+}
+
+.tree {
+  left: 10px;
+}
+
+.graph {
+    position: fixed;
+    top: 20px;
+    right: 10px;
+}
